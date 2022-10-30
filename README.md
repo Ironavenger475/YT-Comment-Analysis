@@ -1,2 +1,2 @@
 # YT-Comment-Analysis
-A Program to perform COmment analysis on YT videos
+A Program to perform Comment analysis on comments in YT videos
